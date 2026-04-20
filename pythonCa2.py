@@ -257,8 +257,8 @@ h1, h2, h3 { color: #e8f5f0 !important; font-family: 'Syne', sans-serif !importa
 """, unsafe_allow_html=True)
 
 # ── CREDENTIALS ──────────────────────────────────────────────
-VALID_USER_ID = "ABCD"
-VALID_PASSWORD = "12345678"
+VALID_USER_ID = "Chennai Super King"
+VALID_PASSWORD = "Thala07"
 
 for key, default in [("logged_in", False), ("login_error", "")]:
     if key not in st.session_state:
